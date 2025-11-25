@@ -1,1 +1,101 @@
-
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-11-25T11:20:41.464Z",
+  "profile": {
+    "title": "mouad",
+    "subtitle": "a full-stack mern developer",
+    "currentWork": "",
+    "currentLearn": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "elarouimouad800@gmail.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "mouad-elaroui",
+    "dev": "",
+    "linkedin": "mouad elaroui",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "arduino",
+    "canvasjs",
+    "css3",
+    "express",
+    "figma",
+    "git",
+    "html5",
+    "javascript",
+    "mongodb",
+    "nodejs",
+    "postman",
+    "react",
+    "tailwind",
+    "typescript",
+    "vuejs"
+  ]
+}
